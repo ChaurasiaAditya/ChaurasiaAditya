@@ -1,5 +1,5 @@
 # 💫 Aditya Chaurasia
-🔭I’m currently learning Full Stack Software Development<br>👯 I’m looking for help with good resources on learning Java and Angular and Spring Boo<br>💬 Ask me about<br>⚡ Fun fact
+🔭I’m currently learning Full Stack Software Development<br>👯 I’m looking for help with good resources on learning Java and Angular and Spring Boot<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
