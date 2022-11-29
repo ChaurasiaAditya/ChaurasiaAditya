@@ -15,4 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChaurasiaAditya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🏆 Batches earned
+<!-- ![](https://res.cloudinary.com/dduwkdctl/image/upload/v1669735270/Chaurasiaaditya.in/stickers%20github/sticker1_eg3ovg.webp) -->
+<img src="https://res.cloudinary.com/dduwkdctl/image/upload/v1669735270/Chaurasiaaditya.in/stickers%20github/sticker1_eg3ovg.webp" width="150px"> <img src="https://res.cloudinary.com/dduwkdctl/image/upload/v1669735270/Chaurasiaaditya.in/stickers%20github/sticker_2_mihjr9.webp" width="150px"> <img src="https://res.cloudinary.com/dduwkdctl/image/upload/v1669735601/Chaurasiaaditya.in/stickers%20github/sticker_3_xhwk4y.webp" width="150px"> 
+<!-- ![](https://res.cloudinary.com/dduwkdctl/image/upload/v1669735270/Chaurasiaaditya.in/stickers%20github/sticker_2_mihjr9.webp) -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
