@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dduwkdctl/image/upload/v1672314848/Chaurasiaaditya.in/stickers%20github/ship_yd0kri.jpg" width="250px" align="right">
+<img src="https://res.cloudinary.com/dduwkdctl/image/upload/v1672908980/Chaurasiaaditya.in/stickers%20github/ship_yd0kri_tpz0sf.jpg" width="250px" align="right">
 
 
 # 💫 Aditya Chaurasia
